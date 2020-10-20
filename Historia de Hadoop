@@ -1,0 +1,13 @@
+--HISTORIA DE HADOOP--
+
+Hadoop es el software de código abierto que fue la semilla de lo que hoy se conoce como Big Data. Fue así, principalmente, porque planteó solución a una de las trabas principales en el desarrollo de esta disciplina: ¿cómo procesar de forma eficiente y en tiempo real la gran cantidad de datos que se recaban y almacenan? Y sobre todo de manera económica.
+
+A principios del siglo XXI, los entornos en nube habían solucionado uno de los problemas que planteaba el Big Data: dónde almacenar el enorme volumen de datos que se recaban a cada segundo. Sin embargo, existía otra cuestión por resolver, partiendo de la base de que esos datos, si no son correctamente procesados y analizados, carecen de valor.
+
+Hasta la llegada de Hadoop, no existían herramientas que permitieran realizar ese procesamiento y análisis a tal escala y en tiempo real. Las pocas que había tenían precios prohibitivos. Hadoop dio respuesta a esa necesidad, basándose en un modelo de programación lanzado por Google: MapReduce.
+
+Inspirándose en la computación en paralelo de Google, los programadores Mike Cafarella y Doug Cutting lanzaron la primera versión de Hadoop el 1 de abril de 2006. Se trata de una solución de código abierto que emplea la computación en paralelo para procesar y analizar volúmenes enormes de data. 
+
+Cutting inició la investigación mientras trabajaba en Google, y la continuó al marcharse a Yahoo. Entonces se enmarcó en el proyecto de desarrollo de Nutch, motor de búsqueda de esta última compañía, este proyecto tenia problemas de escalabilidad, leyó el paper de Google y lo implemento, dando lugar a Hadoop y HDFS como proyectos de Apache. Poco después creo Cloudera.
+
+Hadoop se desarrolló como un modelo de procesamiento automático basado en computación en paralelo.
